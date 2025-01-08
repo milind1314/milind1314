@@ -1,5 +1,33 @@
-# 💫 About Me:
-👋 Hello! I'm Milind<br>I'm a web developer passionate about creating clean and efficient code and exploring minimalistic designs. I enjoy bringing ideas to life through code, focusing on user-friendly interfaces and vibrant aesthetics.<br><br><br>🌱 Skills and Interests<br>Languages & Tools:<br>HTML, CSS, JavaScript<br>Design Aesthetics:<br>Minimalistic designs with unique color combos (love the blend of orange and violet!)
+# About Me
+
+Hello! I'm Milind, a tech enthusiast with a keen interest in web development and database management. My areas of expertise include:
+
+- **Programming Languages**: Java, HTML, CSS
+- **Frameworks and Libraries**: Bootstrap
+- **Database Systems**: Oracle, SQL
+
+### Skills and Interests
+
+1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.
+2. **Database Management**: I work with Oracle SQL to create, manage, and query databases effectively.
+3. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.
+
+### Recent Projects
+
+- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.
+- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.
+
+### Hobbies
+
+When I'm not coding, I enjoy:
+
+- Exploring new tech trends.
+- Reading about software development best practices.
+- Spending time outdoors to refresh and recharge.
+
+Feel free to reach out if you'd like to collaborate or discuss tech topics!
+
+
 
 
 ## 🌐 Socials:
