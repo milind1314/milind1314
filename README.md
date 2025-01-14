@@ -2,7 +2,7 @@
 
 Hello! I'm Milind, a tech enthusiast with a keen interest in web development and database management. My areas of expertise include:
 
-- **Programming Languages**: Java, HTML, CSS
+- **Programming Languages**: Java, HTML, CSS, JavaScript
 - **Frameworks and Libraries**: Bootstrap
 - **Database Systems**: Oracle, SQL
 
