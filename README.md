@@ -1,35 +1,41 @@
+Here's your updated `README.md` with JDBC and Servlet included in the intro:  
+
+---
+
 # About Me
 
-Hello! I'm Milind, a tech enthusiast with a keen interest in web development and database management. My areas of expertise include:
+Hello! I'm Milind, a tech enthusiast with a keen interest in web development, backend technologies, and database management. My areas of expertise include:
 
-- **Programming Languages**: Java, HTML, CSS, JavaScript
-- **Frameworks and Libraries**: Bootstrap
-- **Database Systems**: Oracle, SQL
+- **Programming Languages**: Java, HTML, CSS, JavaScript  
+- **Frameworks and Libraries**: Bootstrap, JDBC, Servlet  
+- **Database Systems**: Oracle, SQL  
 
 ### Skills and Interests
 
-1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.
-2. **Database Management**: I work with Oracle SQL to create, manage, and query databases effectively.
-3. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.
+1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.  
+2. **Backend Development**: I work with **JDBC** and **Servlets** to create powerful Java-based web applications.  
+3. **Database Management**: I use Oracle SQL for creating, managing, and querying databases efficiently.  
+4. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.  
 
 ### Recent Projects
 
-- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.
-- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.
+- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.  
+- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.  
+- **Servlet-Based Calculator**: A web application that performs arithmetic operations using Servlets and JSP.  
 
 ### Hobbies
 
-When I'm not coding, I enjoy:
+When I'm not coding, I enjoy:  
 
-- Exploring new tech trends.
-- Reading about software development best practices.
-- Spending time outdoors to refresh and recharge.
+- Exploring new tech trends.  
+- Reading about software development best practices.  
+- Spending time outdoors to refresh and recharge.  
 
-Feel free to reach out if you'd like to collaborate or discuss tech topics!
+Feel free to reach out if you'd like to collaborate or discuss tech topics! 🚀  
 
+---
 
-
-
+Let me know if you need any more changes! 😊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milind-atram-593ba7333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCV%2BrH4WkR4iyXHBcAHtfVA%3D%3D) 
 
