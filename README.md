@@ -1,7 +1,3 @@
-Here's your updated `README.md` with JDBC and Servlet included in the intro:  
-
----
-
 # About Me
 
 Hello! I'm Milind, a tech enthusiast with a keen interest in web development, backend technologies, and database management. My areas of expertise include:
