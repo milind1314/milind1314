@@ -34,8 +34,6 @@ When I'm not coding, I enjoy:
 Feel free to reach out if you'd like to collaborate or discuss tech topics! 🚀  
 
 ---
-
-Let me know if you need any more changes! 😊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milind-atram-593ba7333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCV%2BrH4WkR4iyXHBcAHtfVA%3D%3D) 
 
