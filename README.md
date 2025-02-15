@@ -2,32 +2,37 @@
 
 Hello! I'm Milind, a tech enthusiast with a keen interest in web development, backend technologies, and database management. My areas of expertise include:
 
-- **Programming Languages**: Java, HTML, CSS, JavaScript  
-- **Frameworks and Libraries**: Bootstrap, JDBC, Servlet  
-- **Database Systems**: Oracle, SQL  
+- **Programming Languages**: Java (Java 8), HTML, CSS, JavaScript, C
+- **Frameworks and Libraries**: Bootstrap, JDBC, Servlet, JSP
+- **Database Systems**: Oracle, SQL
+- **Tools & Platforms**: Figma, Eclipse IDE, IntelliJ IDEA, GitHub, Canva, Photoshop
 
 ### Skills and Interests
 
-1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.  
-2. **Backend Development**: I work with **JDBC** and **Servlets** to create powerful Java-based web applications.  
-3. **Database Management**: I use Oracle SQL for creating, managing, and querying databases efficiently.  
-4. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.  
+- **Currently Learning**: Spring, React
+
+1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.
+2. **Backend Development**: I work with **JDBC**, **Servlets**, and **JSP** to create powerful Java-based web applications.
+3. **Database Management**: I use Oracle SQL for creating, managing, and querying databases efficiently.
+4. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.
 
 ### Recent Projects
 
-- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.  
-- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.  
-- **Servlet-Based Calculator**: A web application that performs arithmetic operations using Servlets and JSP.  
+- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.
+- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.
+- **Servlet-Based Calculator**: A web application that performs arithmetic operations using Servlets and JSP.
 
 ### Hobbies
 
-When I'm not coding, I enjoy:  
+When I'm not coding, I enjoy:
 
-- Exploring new tech trends.  
-- Reading about software development best practices.  
-- Spending time outdoors to refresh and recharge.  
+- Exploring new tech trends.
+- Reading about software development best practices.
+- Spending time outdoors to refresh and recharge.
 
-Feel free to reach out if you'd like to collaborate or discuss tech topics! 🚀  
+Feel free to reach out if you'd like to collaborate or discuss tech topics! 🚀
+
+ 
 
 ---
 ## 🌐 Socials:
