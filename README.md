@@ -3,7 +3,7 @@
 Hello! I'm Milind, a tech enthusiast with a keen interest in web development, backend technologies, and database management. My areas of expertise include:
 
 - **Programming Languages**: Java (Java 8), HTML, CSS, JavaScript, C
-- **Frameworks and Libraries**: Bootstrap, JDBC, Servlet, JSP
+- **Technologies and Libraries**: Bootstrap, JDBC, Servlet, JSP
 - **Database Systems**: Oracle, SQL
 - **Tools & Platforms**: Figma, Eclipse IDE, IntelliJ IDEA, GitHub, Canva, Photoshop
 
