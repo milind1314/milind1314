@@ -1,34 +1,47 @@
-# About Me
+# 💻 About Me
 
-Hello! I'm Milind, a tech enthusiast with a keen interest in web development, backend technologies, and database management. My areas of expertise include:
+Hello! I'm **Milind**, a tech enthusiast passionate about web development, backend technologies, and database management.
 
-- **Programming Languages**: Java (Java 8), HTML, CSS, JavaScript, C
-- **Technologies and Frameworks**: Bootstrap, JDBC, Servlet, JSP
-- **Database Systems**: Oracle, SQL
-- **Tools & Platforms**: Figma, Eclipse IDE, IntelliJ IDEA, GitHub, Canva, Photoshop
+## 🚀 Technical Skills
 
-### Skills and Interests
+- **Programming Languages**: Java (Java 8), HTML, CSS, JavaScript, C  
+- **Technologies & Frameworks**: Bootstrap, JDBC, Servlet, JSP  
+- **Database Systems**: Oracle, SQL  
+- **Tools & Platforms**: Figma, Eclipse IDE, IntelliJ IDEA, GitHub, Canva, Photoshop  
 
-- **Currently Learning**: Spring, React
+## 📚 Skills & Interests
 
-1. **Web Development**: I enjoy designing and building dynamic and responsive web pages using HTML, CSS, and Bootstrap.
-2. **Backend Development**: I work with **JDBC**, **Servlets**, and **JSP** to create powerful Java-based web applications.
-3. **Database Management**: I use Oracle SQL for creating, managing, and querying databases efficiently.
-4. **Problem Solving**: Writing programs to tackle real-world challenges is something I find exciting.
+- **Currently Learning**: Spring, React  
+- **Web Development**: Creating dynamic, responsive web pages using HTML, CSS, and Bootstrap.  
+- **Backend Development**: Building Java-based applications using **JDBC**, **Servlets**, and **JSP**.  
+- **Database Management**: Designing and optimizing databases using Oracle SQL.  
+- **Problem Solving**: Writing efficient programs to solve real-world challenges.  
 
-### Recent Projects
+## 🔥 Projects
 
-- **JDBC Employee Management System**: A program to manage employee records, allowing CRUD operations with Oracle SQL.
-- **Product Listing Website**: A web page showcasing various products, built with HTML, CSS, and Bootstrap.
-- **Servlet-Based Calculator**: A web application that performs arithmetic operations using Servlets and JSP.
+### **JDBC Employee Management System**  
+A program for managing employee records with CRUD operations using Oracle SQL.  
 
-### Hobbies
+### **Product Listing Website**  
+A responsive web page showcasing products, built with HTML, CSS, and Bootstrap.  
 
-When I'm not coding, I enjoy:
+### **Servlet-Based Calculator**  
+A web application performing arithmetic operations using Servlets and JSP.  
 
-- Exploring new tech trends.
-- Reading about software development best practices.
-- Spending time outdoors to refresh and recharge.
+### **Bank Management System**  
+A Java-based banking application with login, deposits, transfers, and account management.  
+
+### **Online Bookstore**  
+A feature-rich bookstore application where users can browse, add, and manage books. Built using **Java, JSP, and Oracle SQL**. Features include:
+- **Admin Panel**: Manage books, users, and transactions.
+- **User Registration & Login**
+- **Book Catalog & Purchase System**
+
+## 🎯 Hobbies & Interests
+
+- Exploring new tech trends  
+- Reading about software development best practices  
+- Spending time outdoors to refresh and recharge 
 
 Feel free to reach out if you'd like to collaborate or discuss tech topics! 🚀
 
