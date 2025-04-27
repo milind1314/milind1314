@@ -2,20 +2,23 @@
 
 Hello! I'm **Milind**, a tech enthusiast passionate about web development, backend technologies, and database management.
 
-## 🚀 Technical Skills
+# 🚀 Technical Skills
 
-- **Programming Languages**: Java (Java 8), HTML, CSS, JavaScript, C  
-- **Technologies & Frameworks**: Bootstrap, JDBC, Servlet, JSP  
-- **Database Systems**: Oracle, SQL  
-- **Tools & Platforms**: Maven, Figma, Eclipse IDE, IntelliJ IDEA, GitHub, Canva, Photoshop  
+- **Programming Languages**: Java (Java 8), C, HTML, CSS, JavaScript  
+- **Technologies & Frameworks**: JDBC, Servlets, JSP, Bootstrap  
+- **Database Systems**: Oracle Database, MySQL, SQL  
+- **Tools & Platforms**: Maven, Git, GitHub, Postman, JUnit, Mockito, Eclipse IDE, IntelliJ IDEA, Figma, Canva, Photoshop  
 
-## 📚 Skills & Interests
+# 📚 Skills & Interests
 
-- **Currently Learning**: Spring, React  
-- **Web Development**: Creating dynamic, responsive web pages using HTML, CSS, and Bootstrap.  
-- **Backend Development**: Building Java-based applications using **JDBC**, **Servlets**, and **JSP**.  
-- **Database Management**: Designing and optimizing databases using Oracle SQL.  
-- **Problem Solving**: Writing efficient programs to solve real-world challenges.  
+- **Currently Learning**: Spring Framework, React.js  
+- **Web Development**: Designed and built dynamic, responsive web pages using HTML, CSS, and Bootstrap.  
+- **Backend Development**: Developed scalable Java-based applications utilizing JDBC, Servlets, and JSP technologies.  
+- **Testing & Debugging**: Implemented unit and integration tests using JUnit and Mockito; tested APIs using Postman for seamless backend functionality.  
+- **Database Management**: Engineered, managed, and optimized databases using Oracle SQL and MySQL.  
+- **Version Control**: Collaborated using Git and GitHub for source code management and version control.  
+- **Problem Solving**: Crafted efficient, high-quality code to tackle real-world technical challenges.  
+
 
 ## 🔥 Projects
 
