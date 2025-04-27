@@ -22,24 +22,19 @@ Hello! I'm **Milind**, a tech enthusiast passionate about web development, backe
 
 ## 🔥 Projects
 
-### **JDBC Employee Management System**  
-A program for managing employee records with CRUD operations using Oracle SQL.  
+- **Bank Management System**  
+  A Java-based web application that allows users to log in, deposit money, transfer funds, and view account details.  
+  **Tech Stack**: Java, JDBC, Servlets, JSP, Oracle SQL, HTML, CSS, Bootstrap  
 
-### **Product Listing Website**  
-A responsive web page showcasing products, built with HTML, CSS, and Bootstrap.  
+- **Online Bookstore**  
+  A simple online platform for managing books, allowing admin login, book addition, and deletion functionality.  
+  **Tech Stack**: Java, JDBC, Servlets, JSP, Oracle SQL, HTML, CSS, Bootstrap  
 
-### **Servlet-Based Calculator**  
-A web application performing arithmetic operations using Servlets and JSP.  
+- **Product Listing Website (Frontend Project)**  
+  Designed a responsive product listing page using HTML, CSS, and Bootstrap.  
+  **Tech Stack**: HTML, CSS, Bootstrap, Figma (for UI Design)
 
-### **Bank Management System**  
-A Java-based banking application with login, deposits, transfers, and account management.  
-
-### **Online Bookstore**  
-A feature-rich bookstore application where users can browse, add, and manage books. Built using **Java, JSP, and Oracle SQL**. Features include:
-- **Admin Panel**: Manage books, users, and transactions.
-- **User Registration & Login**
-- **Book Catalog & Purchase System**
-
+  
 ## 🎯 Hobbies & Interests
 
 - Exploring new tech trends  
