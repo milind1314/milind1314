@@ -6,7 +6,7 @@ Hello! I'm **Milind**, a tech enthusiast passionate about web development, backe
 
 - **Programming Languages**: Java (Java 8), C, HTML, CSS, JavaScript  
 - **Technologies & Frameworks**: JDBC, Servlets, JSP, Bootstrap  
-- **Database Systems**: Oracle Database, MySQL, SQL  
+- **Database Systems**: Oracle, MySQL, MongoDB  
 - **Tools & Platforms**: Maven, Git, GitHub, Postman, JUnit, Mockito, Eclipse IDE, IntelliJ IDEA, Figma, Canva, Photoshop  
 
 # 📚 Skills & Interests
