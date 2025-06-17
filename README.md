@@ -1,40 +1,51 @@
-# 💻 About Me
+# 👋 Hi, I'm Milind
 
-Hello! I'm **Milind**, a tech enthusiast passionate about web development, backend technologies, and database management.
+A passionate developer enthusiastic about building efficient web applications, scalable backend systems, and robust database solutions. I love turning complex technical challenges into simple, maintainable code.
 
-# 🚀 Technical Skills
+---
 
-- **Programming Languages**: Java (Java 8), C, HTML, CSS, JavaScript  
-- **Technologies & Frameworks**: JDBC, Servlets, JSP, Bootstrap  
-- **Database Systems**: Oracle, MySQL, MongoDB  
-- **Tools & Platforms**: Maven, Git, GitHub, Postman, Swagger, JUnit, Mockito, Eclipse IDE, IntelliJ IDEA, Figma, Canva, Photoshop  
+## 🚀 Tech Stack
 
-# 📚 Skills & Interests
+**Languages**  
+Java (Java 8), C, JavaScript, HTML, CSS  
 
-- **Currently Learning**: Spring Framework, React.js  
-- **Web Development**: Designed and built dynamic, responsive web pages using HTML, CSS, and Bootstrap.  
-- **Backend Development**: Developed scalable Java-based applications utilizing JDBC, Servlets, and JSP technologies.  
-- **Testing & Debugging**: Implemented unit and integration tests using JUnit and Mockito; tested APIs using Postman for seamless backend functionality.  
-- **Database Management**: Engineered, managed, and optimized databases using Oracle SQL and MySQL.  
-- **Version Control**: Collaborated using Git and GitHub for source code management and version control.  
-- **Problem Solving**: Crafted efficient, high-quality code to tackle real-world technical challenges.  
+**Java Technologies**  
+JDBC, Servlets, JSP, Spring Core, Spring Boot, Spring MVC, JPA  
 
+**Frontend**  
+HTML, CSS, Bootstrap  
 
-## 🔥 Projects
+**Databases**  
+Oracle, MySQL, MongoDB  
 
-- **Bank Management System**  
-  A Java-based web application that allows users to log in, deposit money, transfer funds, and view account details.  
-  **Tech Stack**: Java, JDBC, Servlets, JSP, Oracle SQL, HTML, CSS, Bootstrap  
+**Frameworks & Libraries**  
+Spring Boot, Lombok 
 
-- **Online Bookstore**  
-  A simple online platform for managing books, allowing admin login, book addition, and deletion functionality.  
-  **Tech Stack**: Java, JDBC, Servlets, JSP, Oracle SQL, HTML, CSS, Bootstrap  
+**Tools**  
+Maven, Git, GitHub, Postman, Swagger, JUnit, Mockito  
+Eclipse IDE, IntelliJ IDEA, SQL Plus, SQL Developer, MongoDB Compass  
 
-- **Product Listing Website (Frontend Project)**  
-  Designed a responsive product listing page using HTML, CSS, and Bootstrap.  
-  **Tech Stack**: HTML, CSS, Bootstrap, Figma (for UI Design)
+**Design**  
+Figma, Canva, Photoshop
 
-  
+---
+
+## 📚 Currently Learning
+
+- Microservices Architecture  
+- RESTful API Design  
+- React.js (Frontend Framework)
+
+---
+
+## 🛠️ Projects
+
+- 🎯 [Doctor Management System](https://github.com/milind1314/SpringBoot-miniProject-LayeredApplication.git) — CRUD app using Spring Boot, JPA  
+- 📚 [Online Bookstore](https://github.com/milind1314/BookStore-Management.git) — Admin-based book management  
+- ✅ [React To-Do List](https://github.com/milind1314/React-ToDo-List.git) — A simple React-based task tracker  
+- 🌍 [Travel Mini Project](https://github.com/milind1314/Travel-mini-project.git) — Frontend project for exploring destinations
+
+---
 ## 🎯 Hobbies & Interests
 
 - Exploring new tech trends  
