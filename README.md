@@ -7,7 +7,7 @@ A passionate developer enthusiastic about building efficient web applications, s
 ## 🚀 Tech Stack
 
 **Languages**  
-Java (Java 8), C, JavaScript, HTML, CSS  
+Java (Java 8), C, JavaScript 
 
 **Java Technologies**  
 JDBC, Servlets, JSP, Spring Core, Spring Boot, Spring MVC, Spring Boot Data JPA , 
