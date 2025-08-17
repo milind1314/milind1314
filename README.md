@@ -10,7 +10,7 @@ A passionate developer enthusiastic about building efficient web applications, s
 Java (Java 8), C, JavaScript 
 
 **Java Technologies**  
-JDBC, Servlets, JSP, Spring Core, Spring Boot, Spring MVC, Spring Boot Data JPA , 
+JDBC, Servlets, JSP, Spring Core, Spring Boot, Spring MVC, Spring Boot Data JPA , Spring Boot Rest
 
 **Frontend**  
 HTML, CSS, Bootstrap  
